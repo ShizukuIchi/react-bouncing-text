@@ -4,7 +4,7 @@ Bouncing Text
 > A styled react component. Liven your text up.
 
 Bounce the text by clicking/hovering on it.  
-The animation will not be triggered until the end of last animation.
+The animation will not be triggered until last animation has finished!
 
 ## Usage:
 
@@ -15,8 +15,8 @@ const MyBouncingText = () => {
   <BouncingText
     className={myClassName}
     text={myTextToShow} 
-    click
-    hover 
+    clickable
+    hoverable 
     delay={ms} 
     duration={ms}
   >
