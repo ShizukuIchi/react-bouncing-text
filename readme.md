@@ -6,10 +6,19 @@ Bouncing Text
 Bounce the text by clicking/hovering on it.  
 The animation will not be triggered until last animation has finished!
 
-## Usage:
+## Usage
+### Install:
+```
+npm install --save react-bouncing-text
 
+// or
+
+yarn add react-bouncing-text
+```
+
+### Example:
 ```js
-import BouncingText from './BouncingText';
+import BouncingText from 'react-bouncing-text';
 
 const MyBouncingText = () => {
   <BouncingText
