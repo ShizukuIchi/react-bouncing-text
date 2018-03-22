@@ -40,3 +40,7 @@ export default MyBouncingText;
 | duration | duration for each text. duration start after delay for each character. (ms)  | Number    | -- |
 
 You should not keep `text`, `delay`, `duration` empty.
+
+## Demo
+
+[Codepen](https://codepen.io/sh1zuku/pen/bvWQRZ)
