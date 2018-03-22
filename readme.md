@@ -34,8 +34,8 @@ export default MyBouncingText;
 | -------- | -------- | -------- | -- |
 | className | specify class name of whole text | String     | -- |
 | text | text to display | String    | -- |
-| click | whether triggerable by clicking | Boolean    | false |
-| hover | whether triggerable by hovering     | Boolean     | false |
+| clickable | whether triggerable by clicking | Boolean    | false |
+| hoverable | whether triggerable by hovering     | Boolean     | false |
 | delay | delay for each text. every character's delay will time the index of itself. (ms) | Number   | -- |
 | duration | duration for each text. duration start after delay for each character. (ms)  | Number    | -- |
 
