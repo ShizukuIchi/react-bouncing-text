@@ -1,5 +1,6 @@
-Bouncing Text
-===
+# Bouncing Text
+
+[![npm version](https://badge.fury.io/js/react-bouncing-text.svg)](https://badge.fury.io/js/react-bouncing-text)
 
 > A styled react component. Liven your text up.
 
